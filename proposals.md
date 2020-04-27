@@ -6,7 +6,7 @@
 ### My Approach: 
   approach
 ### How people will interact with my work:
-	interaction
+  interaction
 ### Data Source(s): 
   Data
 
@@ -20,7 +20,7 @@ ___
 ### My Approach: 
   approach
 ### How people will interact with my work:
-	interaction
+  interaction
 ### Data Source(s): 
   Data
 
@@ -34,6 +34,6 @@ ___
 ### My Approach: 
   approach
 ### How people will interact with my work:
-	interaction
+  interaction
 ### Data Source(s): 
   Data
