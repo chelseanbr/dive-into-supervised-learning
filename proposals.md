@@ -1,36 +1,39 @@
 # Project Idea #1: 
-### Topic (Title):
-
-### High level description of project: 
-
+### Topic (Title): 
+  title
+### High Level Description: 
+  description
+### My Approach: 
+  approach
+### How people will interact with my work:
+	interaction
 ### Data Source(s): 
-
-### Description of Data: 
-
-### *Optional Potential Future Employer:*
+  Data
 
 ___
 
 # Project Idea #2: 
-### Topic (Title):
-
-### High level description of project: 
-
+### Topic (Title): 
+  title
+### High Level Description: 
+  description
+### My Approach: 
+  approach
+### How people will interact with my work:
+	interaction
 ### Data Source(s): 
-
-### Description of Data: 
-
-### *Optional Potential Future Employer:*
+  Data
 
 ___
 
 # Project Idea #3: 
-### Topic (Title):
-
-### High level description of project: 
-
+### Topic (Title): 
+  title
+### High Level Description: 
+  description
+### My Approach: 
+  approach
+### How people will interact with my work:
+	interaction
 ### Data Source(s): 
-
-### Description of Data: 
-
-### *Optional Potential Future Employer:*
+  Data
