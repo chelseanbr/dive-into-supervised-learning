@@ -1,5 +1,4 @@
 # Project Idea #1: 
-* *one where I know I can get the data*
 ### Topic (Title): 
   title
 ### High Level Description: 
@@ -14,7 +13,6 @@
 ___
 
 # Project Idea #2: 
-* *one where I think I can get the data*
 ### Topic (Title): 
   title
 ### High Level Description: 
@@ -29,7 +27,6 @@ ___
 ___
 
 # Project Idea #3: 
-* *one that is a stretch for the data being obtainable*
 ### Topic (Title): 
   title
 ### High Level Description: 
