@@ -15,7 +15,7 @@ ___
 
 # Project Idea #2: 
 #### Topic (Title): 
-  Finding Hot Hotels
+Between the Lines of Hotel Reviews
 #### High Level Description: 
   I will build classifier models to predict hotel ratings of TripAdvisor hotel reviews through sentiment analysis.
 #### My Approach: 
